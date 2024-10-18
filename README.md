@@ -1,4 +1,9 @@
 # estudo de comeco NASM
+<p align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvFJCw9FSyjFs80kWokEnAWgISyrlW65i0Q&s" width=250 heigth=170>
+
+<p>
+
 ## primeiros comandos
 
 * Programa hello world
